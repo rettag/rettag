@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rettag
-- 👀 I’m studing Computer Science at the University of Michigan
-- 💞️ I’m looking to collaborate on web/app development and artificial intelligence projects.
+- 👀 I have a BSE Computer Science from the University of Michigan - Ann Arbor
+- 💞️ I’m looking to collaborate on backend development and artificial intelligence projects.
 - 📫 LinkedIn: https://www.linkedin.com/in/rettg/
 - ✨ LeetCode: https://leetcode.com/rettg/
 <!---
